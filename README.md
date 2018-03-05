@@ -1,0 +1,2 @@
+# firstblood
+just learning git.
